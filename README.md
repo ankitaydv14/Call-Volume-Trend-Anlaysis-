@@ -10,6 +10,9 @@ Inbound Customer Support is responsible for handeling inbound calls of customers
 Following insights were drawn in this project-
 
 1.Calculate the average call time duration for all incoming calls received by agents.
+
 2.Show the total volume/ number of calls coming in via charts/ graphs [Number of calls v/s Time]. 
+
 3.As you can see current abandon rate is approximately 30%. Propose a manpower plan required during each time bucket [between 9am to 9pm] to reduce the abandon rate to 10%.
+
 4.Propose a manpower plan required during each time bucket in a day. Maximum Abandon rate assumption would be same 10%.
